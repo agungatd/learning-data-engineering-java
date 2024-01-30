@@ -6,8 +6,8 @@ Unfortunately, there isn't one single "best" book about data engineering with Ja
 
 ## For Beginners:
 
-* **Data Engineering with Java:**
-  Practical Methods for Scientists and Engineers by Michael Brzustowicz: This book offers a hands-on approach, introducing core concepts like data pipelines, ETL, and distributed processing through Java examples. It's ideal for those with basic programming skills seeking a practical introduction.
+* **Data Science with Java: Practical Methods for Scientists and Engineers by Michael Brzustowicz:**
+  This book offers a hands-on approach, introducing core concepts like data pipelines, ETL, and distributed processing through Java examples. It's ideal for those with basic programming skills seeking a practical introduction.
 
 ## For Intermediate Learners:
 
