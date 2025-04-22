@@ -24,3 +24,6 @@ Unfortunately, there isn't one single "best" book about data engineering with Ja
 
 * **Modern Data Pipelines with Apache Beam by Jacob Kaplan and Kostas Tsimiskis**:
   This book explores Apache Beam, a unified programming model for building data pipelines across various platforms, including Java. It's suitable for those comfortable with distributed processing concepts.
+
+* **Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Gwen Shapira, Todd Palino, Rajini Sivaram and Krit Petty:**
+  This book dives into Apache Kafka, a popular open source streaming platform to handle real-time data feeds often used in conjunction with Java for large-scale, high-throughput, and low-latency data engineering tasks.
